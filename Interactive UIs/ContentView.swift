@@ -32,6 +32,7 @@ struct ContentView: View {
             .tint(.red)
             
         }//closing vstack
+        
         .padding()
         
     }//closing some view
